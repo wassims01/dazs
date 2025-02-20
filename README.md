@@ -1,7 +1,15 @@
 ![create-windows-virtual-machine-in-azure-social](https://github.com/user-attachments/assets/382be3f5-3fbe-4a97-b9a1-b7fddd9b0f48)
 </p>
 
-<h1> enviroments and technologies used</h1>
+<h1>Creating an Azure Virtual Machine for Hosting Applications</h1>
+ 
+ 
+ Tutorial: 
+
+This tutorial outlines the prerequisites and step-by-step instructions for creating a virtual machine (VM) on Microsoft Azure. By following this guide, you will be able to set up a Windows Server or Linux-based VM in Azure, which can then be used to host applications, databases, or services. </h1>
+
+  
+  <h1> enviroments and technologies used</h1>
 
 Azure virtual machine
 RDP(remote desktop)
